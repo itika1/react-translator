@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-translator/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/react-translator/static/js/main.07c957e5.chunk.js",
+    "main.js.map": "/react-translator/static/js/main.07c957e5.chunk.js.map",
+    "runtime-main.js": "/react-translator/static/js/runtime-main.896a2ad8.js",
+    "runtime-main.js.map": "/react-translator/static/js/runtime-main.896a2ad8.js.map",
+    "static/js/2.87e9c93e.chunk.js": "/react-translator/static/js/2.87e9c93e.chunk.js",
+    "static/js/2.87e9c93e.chunk.js.map": "/react-translator/static/js/2.87e9c93e.chunk.js.map",
+    "static/js/3.d33abf08.chunk.js": "/react-translator/static/js/3.d33abf08.chunk.js",
+    "static/js/3.d33abf08.chunk.js.map": "/react-translator/static/js/3.d33abf08.chunk.js.map",
+    "index.html": "/react-translator/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/react-translator/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.87e9c93e.chunk.js.LICENSE.txt": "/react-translator/static/js/2.87e9c93e.chunk.js.LICENSE.txt",
+    "static/media/getFetch.cjs": "/react-translator/static/media/getFetch.d7d6010d.cjs",
+    "static/media/logo.6ce24c58.svg": "/react-translator/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.896a2ad8.js",
+    "static/js/2.87e9c93e.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.07c957e5.chunk.js"
+  ]
+}
